@@ -1,0 +1,9 @@
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.Model\bin\Debug\netcoreapp2.0\HotelManagment.Model.deps.json
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.Model\bin\Debug\netcoreapp2.0\HotelManagment.Model.dll
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.Model\bin\Debug\netcoreapp2.0\HotelManagment.Model.pdb
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.Model\obj\Debug\netcoreapp2.0\HotelManagment.Model.csprojResolveAssemblyReference.cache
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.Model\obj\Debug\netcoreapp2.0\HotelManagment.Model.csproj.CoreCompileInputs.cache
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.Model\obj\Debug\netcoreapp2.0\HotelManagment.Model.AssemblyInfoInputs.cache
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.Model\obj\Debug\netcoreapp2.0\HotelManagment.Model.AssemblyInfo.cs
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.Model\obj\Debug\netcoreapp2.0\HotelManagment.Model.dll
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.Model\obj\Debug\netcoreapp2.0\HotelManagment.Model.pdb

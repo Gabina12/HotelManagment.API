@@ -1,0 +1,16 @@
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.API\bin\Debug\netcoreapp2.0\Hotelmanagment.DB.dll
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.API\bin\Debug\netcoreapp2.0\HotelManagment.Model.dll
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.API\obj\Debug\netcoreapp2.0\HotelManagment.API.csprojResolveAssemblyReference.cache
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.API\obj\Debug\netcoreapp2.0\HotelManagment.API.csproj.CoreCompileInputs.cache
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.API\obj\Debug\netcoreapp2.0\HotelManagment.API.AssemblyInfoInputs.cache
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.API\obj\Debug\netcoreapp2.0\HotelManagment.API.AssemblyInfo.cs
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.API\bin\Debug\netcoreapp2.0\HotelManagment.API.deps.json
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.API\bin\Debug\netcoreapp2.0\HotelManagment.API.runtimeconfig.json
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.API\bin\Debug\netcoreapp2.0\HotelManagment.API.runtimeconfig.dev.json
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.API\bin\Debug\netcoreapp2.0\HotelManagment.API.dll
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.API\bin\Debug\netcoreapp2.0\HotelManagment.API.pdb
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.API\bin\Debug\netcoreapp2.0\Hotelmanagment.DB.pdb
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.API\bin\Debug\netcoreapp2.0\HotelManagment.Model.pdb
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.API\obj\Debug\netcoreapp2.0\HotelManagment.API.csproj.CopyComplete
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.API\obj\Debug\netcoreapp2.0\HotelManagment.API.dll
+c:\users\lasha.gabinashvili\source\repos\HotelManagment.API\HotelManagment.API\obj\Debug\netcoreapp2.0\HotelManagment.API.pdb
